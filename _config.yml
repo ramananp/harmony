@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl: ./
+baseurl: /blogs.ramanan.io
 
 # Site live URL
 url: http://gayan.me
