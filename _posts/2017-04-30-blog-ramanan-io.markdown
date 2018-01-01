@@ -11,5 +11,3 @@ permalink: first-post
 ---
 
 My first attempt to write a blog. Excited!!
-
-___
