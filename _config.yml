@@ -13,20 +13,20 @@ url: http://ramanan.io
 harmony:
   name: Ramanan's Blog
   # Little description about your site
-  description: My learnings and developments
+  description: My Learnings & Experiments
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
   meta_description: > #
-   My attempt to write my learnings and developments.
+   Ramanan Pathmaraj's Learnings & Experiments
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Ramanan Pathmaraj
     email: ramanan@ramanan.io
-    url: http://blogs.ramanan.io
+    url: http://ramanan.io
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-75778005-1
 
   # Profile links, leave blank to ignore
   social:
